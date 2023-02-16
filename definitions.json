@@ -5,7 +5,7 @@
       "arguments": [
         {
           "type": "number",
-          "placeholder": "duration in ms"
+          "placeholder": "Duration in MS"
         }
       ]
     }
