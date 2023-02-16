@@ -1,0 +1,13 @@
+{
+  "methods": {
+    "vibrate": {
+      "name": "Vibrate",
+      "arguments": [
+        {
+          "type": "number",
+          "placeholder": "duration in ms"
+        }
+      ]
+    }
+  }
+}
