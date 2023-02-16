@@ -4,6 +4,7 @@
       "name": "Vibrate",
       "arguments": [
         {
+          "name": "Duration",
           "type": "number",
           "placeholder": "Duration in MS"
         }
